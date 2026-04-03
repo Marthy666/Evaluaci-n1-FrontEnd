@@ -1,4 +1,4 @@
 # Evaluaci-n1-FrontEnd
 Marthyna Zaccarini
 
-Este es un ejemplo de GIT
+Hola profe, aqui está mi evaluación, la deje lista y la hice con el prompt que hizo en clases
